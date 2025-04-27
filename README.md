@@ -4,6 +4,14 @@ I'm a Software Developer.
 I was born in Argentina 🇦🇷
 I live in Spain 🇪🇸
 
+```
+const guillermoRolonSoto = {
+  code: [Javascript, Typescript, PHP, HTML, CSS],
+  tools: [Node, NestJs, Laravel, Symfony, React, Vue, Redux, Jest, Docker],
+  architecture: ["microservices", "event-driven"]
+}
+```
+
 <!--
 **guillermors39/guillermors39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
