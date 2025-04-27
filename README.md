@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Software Developer.
+I was born in Argentina 🇦🇷
+I live in Spain 🇪🇸
+
 <!--
 **guillermors39/guillermors39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
